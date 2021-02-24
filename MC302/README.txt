@@ -1,0 +1,1 @@
+This project is the OO backbone for a hobby matchmaking university app. The project was for practicing OO concepts and was abandoned after the course’s completion.
